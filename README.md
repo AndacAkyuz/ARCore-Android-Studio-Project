@@ -21,3 +21,7 @@ Bu proje, Android Studio, Kotlin programlama dili ve scene-view kütüphanesi il
 2. Android Studio'yu açın ve projeyi içe aktarın.
 3. Projeyi emülatörde veya fiziksel bir cihazda çalıştırın.
 Not: Fiziksel cihazda çalıştırmak isteyenler ilk önce geliştirici seçeneklerini açıp daha sonra USB Hata Ayıklama özelliğini aktif ederek bilgisayara bağlayın.
+
+## Lisans
+
+Bu proje MIT lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasını inceleyebilirsiniz.
