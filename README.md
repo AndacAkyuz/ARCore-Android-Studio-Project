@@ -6,6 +6,10 @@ Bu proje, Android Studio, Kotlin programlama dili ve scene-view kütüphanesi il
 - Kütüphane olarak scene-view kütüphanesininin 0.10.0 sürümünü kullanılır.
 - Uygulama, .glb uzantılı 3D araç modellerini kullanarak artırılmış gerçeklik (AR) deneyimi sunmaktadır. İsteğe bağlı olarak araç modelleri ve görselleri kaynak dosyalarından değiştirilebilir.
 - Kullanıcıya modeller arasında geçiş yapma ve modelleri sabitleme imkanı sağlar.
+- 
+![1](https://github.com/AndacAkyuz/ARCore-Android-Studio-Project/assets/91327557/6756a720-fe13-4c72-a743-cdf07964132a)
+![2](https://github.com/AndacAkyuz/ARCore-Android-Studio-Project/assets/91327557/a3b2c783-ceab-4569-9b0b-b7c95c2b92be)
+
 
 ## Nasıl Kullanılır?
 
